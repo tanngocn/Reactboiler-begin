@@ -65,7 +65,7 @@
   },
   "dependencies": {
     "@babel/polyfill": "7.4.3",
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "bearer-token": "^2.0.2",
     "chalk": "2.4.2",
     "compression": "1.7.4",
